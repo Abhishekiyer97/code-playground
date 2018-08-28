@@ -1,1 +1,8 @@
+title: Interview CookBook
+name: Adithya NR
+email: adithyabhat17.ab@gmail.com
+description: This website will house several code snippets and useful resources for Data Structures, Algorithms and Object-Oriented Concepts.
+
 theme: jekyll-theme-cayman
+
+display_footer: none
